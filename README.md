@@ -1,4 +1,4 @@
-# apple riplica
+# apple replica
 A basic HTML and CSS project for BUILDING WITH BACKGROUNDS AND GRADIENTS.
 
 # Prerequisites
